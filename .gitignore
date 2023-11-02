@@ -1,0 +1,7 @@
+# Ignore compiled files
+*
+!/**/
+!*.*
+
+# Ignore files ending with main.c
+*main.c
